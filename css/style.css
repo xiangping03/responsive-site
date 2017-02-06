@@ -176,9 +176,7 @@ section {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%; }
-    
-  #contact p{text-align:center;}  
-
+  
 @media (min-width: 769px) {
   /* Base
   ------------------------------------------------------------*/
@@ -197,17 +195,6 @@ section {
     justify-content: space-between; }
   #skills .skill-box {
     margin: 0 10px; }
-
-  #works .works-box {
-    width: 33.33333%; }
-    #works .works-box a .works-box-inner {
-      display: none;
-      width: 0%; }
-      #works .works-box a .works-box-inner .button-readmore:hover {
-        background-color: #0f949b; }
-    #works .works-box a:hover .works-box-inner {
-      display: block;
-      width: 100%; }
 
   #contact ul a:hover {
     background-color: #0f949b; } }
