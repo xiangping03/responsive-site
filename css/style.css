@@ -61,7 +61,11 @@ a {
 ------------------------------------------------------------*/
 .cover-area{
     background-image: url(../images/img_profile.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
 }
+
 @media (min-width: 769px) {
   .cover-area{
     height: 500px;
